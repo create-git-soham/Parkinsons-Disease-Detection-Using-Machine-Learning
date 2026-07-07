@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Anaconda projects / IDEs
+anaconda_projects/
+.vscode/
+.idea/
+
+# Local Streamlit config
+.streamlit/
